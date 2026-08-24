@@ -1,5 +1,7 @@
 # Velvet Avocado Studio
 
+![Velvet Avocado Studio bringing AI-generated worlds together](assets/velvet-avocado-studio-hero.jpeg)
+
 **A local-first desktop production workspace for creating AI-generated video, images, audio, and complete media projects across multiple AI providers and local models.**
 
 [**Download Velvet Avocado Studio for macOS or Windows →**](https://velvetavocado.com/download)
