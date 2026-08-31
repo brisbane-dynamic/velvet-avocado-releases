@@ -4,6 +4,7 @@ Dated release notes for Velvet Avocado Studio, the local-first desktop studio fo
 
 | Release date | Version | Details |
 | --- | --- | --- |
+| 31 August 2026 | 0.8.0 | [Read the release notes](2026-08-31-velvet-avocado-studio-0.8.0.md) |
 | 16 August 2026 | 0.7.6 | [Read the release notes](2026-08-16-velvet-avocado-studio-0.7.6.md) |
 | 15 August 2026 | 0.7.5 | [Read the release notes](2026-08-15-velvet-avocado-studio-0.7.5.md) |
 | 12 August 2026 | 0.7.4 | [Read the release notes](2026-08-12-velvet-avocado-studio-0.7.4.md) |
